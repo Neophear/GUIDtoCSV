@@ -1,0 +1,12 @@
+﻿Product Name   NAVN
+Serial Number   SN
+Universal Unique ID     GUID
+--*--*--*--
+Product Name   NAVN
+Serial Number   SN
+Universal Unique ID     GUID
+--*--*--*--
+Product Name   NAVN
+Serial Number   SN
+Universal Unique ID     GUID
+--*--*--*--
